@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+    <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
+    <link href="https://githubuniverse.com/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://githubuniverse.com/" rel="alternate" type="text/html" />
+    <updated>2017-10-26T17:34:11+00:00</updated>
+    <id>https://githubuniverse.com/</id>
+    <title type="html">GitHub Universe</title>
+    <subtitle>The event for people making the future of software.</subtitle>
+</feed>
